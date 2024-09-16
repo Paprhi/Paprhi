@@ -1,4 +1,4 @@
-
+<img src="https://img.freepik.com/free-psd/gaming-template-design_23-2151775710.jpg?t=st=1726483727~exp=1726487327~hmac=08a2e0f3e989a3a0de49610ce2047e03a7006b5eaa7531b225819bbbc6969a4e&w=740">
 <h1 align="center">Hi 👋, I'm Ummey Kulsum Paprhi</h1>
 <h3 align="center">A passionate Designer Developer & WordPress Expert</h3>
 
