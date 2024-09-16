@@ -1,4 +1,4 @@
-<img src="E:\New folder (3)\gradient-dark-blue-futuristic-digital-background_53876-160646.jpg">
+<img src="">
 <h1 align="center">Hi 👋, I'm Ummey Kulsum Paprhi</h1>
 <h3 align="center">A passionate Designer Developer & WordPress Expert</h3>
 
