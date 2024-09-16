@@ -1,5 +1,5 @@
 <img src="https://img.freepik.com/free-vector/twitch-banner-template-science-research_23-2150232953.jpg?size=626&ext=jpg&ga=GA1.1.1795834261.1726144687&semt=ais_hybrid">
-<h1 align="center">Hi 👋, I'm Ummey Kulsum Paprhi</h1>
+<h1 align="center">This is Ummey Kulsum Paprhi</h1>
 <h3 align="center">A passionate Designer Developer & WordPress Expert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paprhi&label=Profile%20views&color=0e75b6&style=flat" alt="paprhi" /> </p>
