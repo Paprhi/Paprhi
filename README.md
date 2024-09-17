@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-vector/twitch-banner-template-science-research_23-2150232953.jpg?size=626&ext=jpg&ga=GA1.1.1795834261.1726144687&semt=ais_hybrid">
+<img src="https://www.canva.com/design/DAGQjMr7mgo/X0vRlyldeehE3x69o4jKLg/edit?utm_content=DAGQjMr7mgo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 <h1 align="center">This is Ummey Kulsum Paprhi</h1>
 <h3 align="center">A passionate Designer Developer & WordPress Expert</h3>
 
