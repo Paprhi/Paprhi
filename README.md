@@ -1,5 +1,4 @@
-<img src="![WhatsApp ইমেজ 2024-09-17 তারিখে 18 20 37-এ_d4b6b01c](https://github.com/user-attachments/assets/82d87280-7ca8-4597-ac2c-62464e3d2773)
-">
+<img src="">
 <h1 align="center">This is Ummey Kulsum Paprhi</h1>
 <h3 align="center">A passionate Designer Developer & WordPress Expert</h3>
 
