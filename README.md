@@ -1,4 +1,4 @@
-<img src="">
+<img src="Blue Modern Corporate Staff Profile LinkedIn Banner (2).png">
 <h1 align="center">This is Ummey Kulsum Paprhi</h1>
 <h3 align="center">A passionate Designer Developer & WordPress Expert</h3>
 
