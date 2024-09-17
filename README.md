@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS116ERffx7tn3OCEqB9DHpItKiv05ERsevGA&s">
+<img style="height: 300px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS116ERffx7tn3OCEqB9DHpItKiv05ERsevGA&s">
 <h1 align="center">This is Ummey Kulsum Paprhi</h1>
 <h3 align="center">A passionate Designer Developer & WordPress Expert</h3>
 
